@@ -1,0 +1,31 @@
+18.09.2022 19:44:00 LOG : Wrong customer id - 234 already exists in DB!
+18.09.2022 19:44:00 LOG : Wrong customer id - 12321 already exists in DB!
+18.09.2022 19:44:00 LOG : Not enough data in a customer row: 123
+18.09.2022 19:44:00 LOG : Wrong customer id - 1235 already exists in DB!
+18.09.2022 19:52:41 LOG : Wrong customer id - 234 already exists in DB!
+18.09.2022 19:52:41 LOG : Wrong customer id - 12321 already exists in DB!
+18.09.2022 19:52:41 LOG : Not enough data in a customer row: 123
+18.09.2022 19:52:41 LOG : Wrong customer id - 1235 already exists in DB!
+18.09.2022 19:52:41 LOG : Wrong customer id - 12 already exists in DB!
+18.09.2022 21:27:42 LOG : Not enough data in a customer row: 123
+18.09.2022 21:28:50 LOG : Not enough data in a customer row: 123
+18.09.2022 21:29:09 LOG : Not enough data in a customer row: 123
+18.09.2022 21:30:23 LOG : Not enough data in a customer row: 123
+18.09.2022 21:31:15 LOG : Not enough data in a customer row: 123
+18.09.2022 21:33:22 LOG : Not enough data in a customer row: 123
+18.09.2022 21:33:51 LOG : Not enough data in a customer row: 123
+18.09.2022 21:35:42 LOG : Not enough data in a customer row: 123
+18.09.2022 21:38:15 LOG : Not enough data in a customer row: 123
+18.09.2022 21:38:45 LOG : Not enough data in a customer row: 123
+18.09.2022 21:39:26 LOG : Not enough data in a customer row: 123
+18.09.2022 21:39:40 LOG : Not enough data in a customer row: 123
+18.09.2022 22:22:36 LOG : Wrong customer id - 234 already exists in DB!
+18.09.2022 22:22:36 LOG : Wrong customer id - 12321 already exists in DB!
+18.09.2022 22:22:36 LOG : Not enough data in a customer row: 123
+18.09.2022 22:22:36 LOG : Wrong customer id - 1235 already exists in DB!
+18.09.2022 22:22:36 LOG : Wrong customer id - 12 already exists in DB!
+18.09.2022 22:41:02 LOG : Wrong customer id - 234 already exists in DB!
+18.09.2022 22:41:02 LOG : Wrong customer id - 12321 already exists in DB!
+18.09.2022 22:41:02 LOG : Not enough data in a customer row: 123
+18.09.2022 22:41:02 LOG : Wrong customer id - 1235 already exists in DB!
+18.09.2022 22:41:02 LOG : Wrong customer id - 12 already exists in DB!
